@@ -9,11 +9,8 @@ const IndexPage = () => {
       <StaticImage
         alt="randomized unsplash image!"
         src='../images/gatsby-icon.png'
-
       />
       </Layout>
-      
   )
 }
-
 export default IndexPage
