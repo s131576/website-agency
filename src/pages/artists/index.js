@@ -79,7 +79,5 @@ query  {
       }
     }
   }
-}
-
-`
+}`
 export default ArtistsPage
